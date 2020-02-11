@@ -1,0 +1,4 @@
+Izgara Tavuk 15.0
+Izgara Köfte 20.0
+Izgara Balýk 25.0
+Izgara Pirzola 35.0
